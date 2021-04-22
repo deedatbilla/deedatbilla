@@ -1,7 +1,7 @@
 ![Repository Banner](banner.png)
 
-[![](https://komarev.com/ghpvc/?username=markoDenic&color=blue&label=Profile%20Views)](https://github.com/markoDenic/markoDenic)
-[![](https://img.shields.io/github/followers/markoDenic?label=GitHub%20Followers)](https://github.com/markoDenic)
+[![](https://komarev.com/ghpvc/?username=deedatbilla&color=blue&label=Profile%20Views)](https://github.com/markoDenic/deedatbilla)
+[![](https://img.shields.io/github/followers/deedatbilla?label=GitHub%20Followers)](https://github.com/deedatbilla)
 
 # Hi! 👋 I'm [Deedat Billa](https://markodenic.com) 💻
 
