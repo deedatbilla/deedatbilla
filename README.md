@@ -1,16 +1,22 @@
-### Hi there 👋
+![Repository Banner](banner.png)
 
-<!--
-**deedatbilla/deedatbilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://komarev.com/ghpvc/?username=markoDenic&color=blue&label=Profile%20Views)](https://github.com/markoDenic/markoDenic)
+[![](https://img.shields.io/github/followers/markoDenic?label=GitHub%20Followers)](https://github.com/markoDenic)
 
-Here are some ideas to get you started:
+# Hi! 👋 I'm [Deedat Billa](https://markodenic.com) 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a fullstack developer and I love everything about space too.
+
+## ⚡ Github Stats
+
+![Deedat Billas's Github Stats](https://github-readme-stats.vercel.app/api?username=deedatbilla&theme=dark)
+
+### Let's Connect 🔗
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/deedat-billa-98a62b95)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/deedat5?s=09) 
+[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/deedatidriss/)
+
+
+
+
