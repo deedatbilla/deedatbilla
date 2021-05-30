@@ -1,4 +1,4 @@
-![Repository Banner](banner.png)
+![Repository Banner](mars.jpg)
 
 [![](https://komarev.com/ghpvc/?username=deedatbilla&color=blue&label=Profile%20Views)](https://github.com/markoDenic/deedatbilla)
 [![](https://img.shields.io/github/followers/deedatbilla?label=GitHub%20Followers)](https://github.com/deedatbilla)
