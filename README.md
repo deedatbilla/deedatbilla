@@ -5,7 +5,7 @@
 
 # Hi! 👋 I'm Deedat Billa. Developer of [clypsync](https://clypsync.com) 💻
 
-I'm a fullstack developer and I love everything about space too.
+I'm a fullstack javascript developer and I love everything about space too.
 
 ## ⚡ Github Stats
 
