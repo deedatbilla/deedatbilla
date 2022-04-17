@@ -6,8 +6,8 @@
 # Hi! 👋 I'm Deedat Billa, a fullstack javascript developer and a space enthusiast.
 1. Co-founder & CTO of [Tranzo Technologies Africa LTD](https://tranzopay.com) 💻
 2. Developer of [Clypsync](https://priceless-kilby-80e931.netlify.app/) & [Al-Masjid radio & tv](https://play.google.com/store/apps/details?id=com.foreverislamfoundation.app)
-3. Ex full stack engineer @ [Flightmaker Caasco](https://caasco.io)
-4. Part time frontend engineer @ [btlafrica](https://btlafrica.com)
+3. Ex full stack engineer @[Flightmaker Caasco](https://caasco.io)
+4. Part time frontend engineer @[btlafrica](https://btlafrica.com)
 
 
 ## ⚡ Github Stats
