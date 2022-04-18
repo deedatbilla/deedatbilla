@@ -9,6 +9,18 @@
 3. Ex full stack engineer @[Flightmaker Caasco](https://caasco.io)
 4. Part time frontend engineer @[btlafrica](https://btlafrica.com)
 
+## ⚡ My most used technologies
+1. React
+2. Nodejs
+3. Nextjs
+4. Tailwind CSS
+5. Graphql
+6. Rest
+7. AWS
+8. Firebase
+9. Mongodb
+10. Express
+
 
 ## ⚡ Github Stats
 
