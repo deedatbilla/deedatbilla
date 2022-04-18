@@ -7,19 +7,21 @@
 1. Co-founder & CTO of [Tranzo Technologies Africa LTD](https://tranzopay.com) 💻
 2. Developer of [Clypsync](https://priceless-kilby-80e931.netlify.app/) & [Al-Masjid radio & tv](https://play.google.com/store/apps/details?id=com.foreverislamfoundation.app)
 3. Ex full stack engineer @[Flightmaker Caasco](https://caasco.io)
-4. Part time frontend engineer @[btlafrica](https://btlafrica.com)
+4. Part time frontend engineer @[btlafrica](https://btlafrica.com) & currently working on [Qafrica](https://qafrica.plus)
+5. Worked part time in buidling the frontend of [Digiclass](https://kelemm-digiclass.herokuapp.com/)
 
 ## ⚡ My most used technologies
 1. React
-2. Nodejs
-3. Nextjs
-4. Tailwind CSS
-5. Graphql
-6. Rest
-7. AWS
-8. Firebase
-9. Mongodb
-10. Express
+2. React Native
+3. Nodejs
+4. Nextjs
+5. Tailwind CSS
+6. Graphql
+7. Rest
+8. AWS
+9. Firebase
+10. Mongodb
+11. Express
 
 
 ## ⚡ Github Stats
