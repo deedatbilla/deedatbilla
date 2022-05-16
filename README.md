@@ -22,6 +22,8 @@
 9. Firebase
 10. Mongodb
 11. Express
+12. Solidity
+13. Web3js
 
 
 ## ⚡ Github Stats
