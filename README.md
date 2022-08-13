@@ -9,7 +9,7 @@
 3. Ex full stack engineer @[Flightmaker Caasco](https://caasco.io)
 4. Part time frontend engineer @[btlafrica](https://btlafrica.com) & currently working on [Qafrica](https://qafrica.plus)
 5. Worked part time in buidling the frontend of [Digiclass](https://kelemm-digiclass.herokuapp.com/)
-
+6. Currently a Blockchain developer @tezosIsrael
 ## ⚡ My most used technologies
 1. React
 2. React Native
@@ -24,6 +24,7 @@
 11. Express
 12. Solidity
 13. Web3js
+14. Ligo
 
 
 ## ⚡ Github Stats
