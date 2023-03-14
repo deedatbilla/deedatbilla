@@ -25,7 +25,7 @@
 12. Solidity
 13. Web3js
 14. Ligo
-
+# NB: Most of my best projects are private repos. email me at deedat5@gmail.com so I dazzle you.
 
 ## ⚡ Github Stats
 
