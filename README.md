@@ -5,7 +5,7 @@
 
 # Hi! 👋 I'm Deedat Billa, a fullstack javascript developer and a space enthusiast.
 1. Co-founder & CTO of [Tranzo Technologies Africa LTD](https://tranzopay.com) 💻
-2. Developer of [Serool](https://serool.com/)
+2. Developer of [Serool](https://serool.com/). A complete platform for starting and operating a business in Ghana. Reliable, Efficient and Affordable.
 3. Developer of [Clypsync](https://priceless-kilby-80e931.netlify.app/) & [Al-Masjid radio & tv](https://play.google.com/store/apps/details?id=com.foreverislamfoundation.app)
 4. Ex full stack engineer @[Flightmaker Caasco](https://caasco.io)
 5. Ex frontend engineer @[btlafrica](https://btlafrica.com)
