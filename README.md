@@ -1,4 +1,4 @@
-![Repository Banner](mars.jpg)
+![Repository Banner](main_image_star-forming_region_carina_nircam_final-1280.jpg)
 
 [![](https://komarev.com/ghpvc/?username=deedatbilla&color=blue&label=Profile%20Views)](https://github.com/markoDenic/deedatbilla)
 [![](https://img.shields.io/github/followers/deedatbilla?label=GitHub%20Followers)](https://github.com/deedatbilla)
@@ -27,7 +27,6 @@
 12. Solidity
 13. Web3js
 14. Ligo
-# NB: Most of my best projects are private repos. email me at deedat5@gmail.com so I dazzle you.
 
 ## ⚡ Github Stats
 
