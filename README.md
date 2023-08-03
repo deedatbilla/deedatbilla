@@ -6,12 +6,14 @@
 # Hi! 👋 I'm Deedat Billa, a fullstack javascript developer and a space enthusiast.
 1. Co-founder & CTO of [Tranzo Technologies Africa LTD](https://tranzopay.com) 💻
 2. Developer of [Serool](https://serool.com/). A complete platform for starting and operating a business in Ghana. Reliable, Efficient and Affordable.
-3. Developer of [Clypsync](https://priceless-kilby-80e931.netlify.app/) & [Al-Masjid radio & tv](https://play.google.com/store/apps/details?id=com.foreverislamfoundation.app)
-4. Ex full stack engineer @[Flightmaker Caasco](https://caasco.io)
-5. Ex frontend engineer @[btlafrica](https://btlafrica.com)
-6. Worked part time in buidling the frontend of [Digiclass](https://kelemm-digiclass.herokuapp.com/)
-7. Ex Blockchain developer @tezosIsrael
-8. Currently a Fullstack developer at SavannachTech
+3. Developer of [DL Campus](https://campus-app-web-lake.vercel.app/). A Legal education app for Ghanian Law students
+4. Developer of [DL Citator](https://dl-citator.vercel.app/). A library all legal information in Ghana
+5. Developer of [Clypsync](https://priceless-kilby-80e931.netlify.app/) & [Al-Masjid radio & tv](https://play.google.com/store/apps/details?id=com.foreverislamfoundation.app)
+6. Ex full stack engineer @[Flightmaker Caasco](https://caasco.io)
+7. Ex frontend engineer @[btlafrica](https://btlafrica.com)
+8. Worked part time in buidling the frontend of [Digiclass](https://kelemm-digiclass.herokuapp.com/)
+9. Ex Blockchain developer @tezosIsrael
+10. Currently a Fullstack developer at SavannachTech
 ## ⚡ My most used technologies
 1. React
 2. React Native
