@@ -33,6 +33,7 @@
 ## ⚡ Github Stats
 
 ![Deedat Billas's Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=deedatbilla&theme=dark)
+[![wakatime](https://wakatime.com/badge/user/018af5a5-5d8a-436b-bf62-68c51540d2e6.svg)](https://wakatime.com/@018af5a5-5d8a-436b-bf62-68c51540d2e6)
 
 ### Let's Connect 🔗
 
