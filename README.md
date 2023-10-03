@@ -2,6 +2,7 @@
 
 [![](https://komarev.com/ghpvc/?username=deedatbilla&color=blue&label=Profile%20Views)](https://github.com/markoDenic/deedatbilla)
 [![](https://img.shields.io/github/followers/deedatbilla?label=GitHub%20Followers)](https://github.com/deedatbilla)
+[![wakatime](https://wakatime.com/badge/user/018af5a5-5d8a-436b-bf62-68c51540d2e6.svg)](https://wakatime.com/@018af5a5-5d8a-436b-bf62-68c51540d2e6)
 
 # Hi! 👋 I'm Deedat Billa, a fullstack javascript developer and a space enthusiast.
 1. Co-founder & CTO of [Tranzo Technologies Africa LTD](https://tranzopay.com) 💻
