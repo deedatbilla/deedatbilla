@@ -7,7 +7,7 @@
 # Hi! 👋 I'm Deedat Billa, a fullstack javascript developer and a space enthusiast.
 1. Co-founder & CTO of [Tranzo Technologies Africa LTD](https://tranzopay.com) 💻
 2. Developer of [Serool](https://serool.com/). A complete platform for starting and operating a business in Ghana. Reliable, Efficient and Affordable.
-3. Developer of [DL Campus](https://campus-app-web-lake.vercel.app/). A Legal education app for Ghanian Law students
+3. Developer of [DL Campus](https://dlcampus.dennislawgh.com). A Legal education app for Ghanian Law students
 4. Developer of [DL Citator](https://dl-citator.vercel.app/). A library all legal information in Ghana
 5. Developer of [Clypsync](https://priceless-kilby-80e931.netlify.app/) & [Al-Masjid radio & tv](https://play.google.com/store/apps/details?id=com.foreverislamfoundation.app)
 6. Ex full stack engineer @[Flightmaker Caasco](https://caasco.io)
