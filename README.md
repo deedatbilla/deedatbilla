@@ -32,7 +32,9 @@
 14. Ligo
 
 ## ⚡ Github Stats
+![Deedat Billas's Github Stats](https://github-readme-stats.vercel.app/api?username=deedatbilla&theme=dark)
 
+## ⚡ Wakatime Stats
 ![Deedat Billas's Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=deedatbilla&theme=dark)
 
 ### Let's Connect 🔗
