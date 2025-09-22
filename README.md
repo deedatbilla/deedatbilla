@@ -7,7 +7,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=deedatbilla&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/deedatbilla)
 [![GitHub Followers](https://img.shields.io/github/followers/deedatbilla?label=Followers&style=flat-square&color=blue)](https://github.com/deedatbilla)
 [![Wakatime](https://wakatime.com/badge/user/018af5a5-5d8a-436b-bf62-68c51540d2e6.svg)](https://wakatime.com/@018af5a5-5d8a-436b-bf62-68c51540d2e6)
-[![Email](https://img.shields.io/badge/Email-deedat5%40gmail.com-red?style=flat-square&logo=gmail)](mailto:deedat5@gmail.com)
 
 </div>
 
@@ -193,7 +192,6 @@ interface DeedatSkills {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deedatidriss/)
 [![Email](https://img.shields.io/badge/Email-deedat5%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:deedat5@gmail.com)
 
-### 📱 **Contact:** +233 554 406 529 | 📧 **Email:** deedat5@gmail.com
 
 ---
 
