@@ -17,9 +17,9 @@
 I'm a **Senior Software Engineer** and **Tech Entrepreneur** based in Accra, Ghana, with deep expertise in building scalable web and mobile applications. From founding fintech solutions to developing comprehensive platforms for education and business, I specialize in transforming complex challenges into elegant, maintainable code. When I'm not coding, I'm fascinated by space exploration and dream of contributing to humanity's journey to the stars.
 
 ### 🎯 Current Focus
-- **Full-time Developer** at [Cbit Industries] - Building scalable e-commerce solutions 🛒
-- **Part-time Mobile & Web Developer** at [Mitech Software Solutions] - Cross-platform applications 📱
-- **Freelance Developer** for [Utopia Africa](https://utopiafrica.com) (BTL Africa subsidiary) - Custom solutions 🌍
+- **Full-time Developer** at Cbit Industries - Building scalable e-commerce solutions 🛒
+- **Part-time Mobile & Web Developer** at Mitech Software Solutions - Cross-platform applications 📱
+- **Freelance Developer** for Utopia Africa (BTL Africa subsidiary) - Custom solutions 🌍
 - **Co-founder & Former CTO** at [Tranzo Technologies Africa](https://tranzopay.com) - 2K+ users, 10K+ transactions 💰
 - Exploring **space technology applications** and **interplanetary software development** 🛸
 
